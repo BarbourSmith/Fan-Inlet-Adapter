@@ -771,6 +771,19 @@
             "unitsIndex": 0
         },
         {
+            "atomType": "Stl",
+            "name": "Stl",
+            "x": 0.7341269841269841,
+            "y": 0.7692307692307692,
+            "uniqueID": 616516,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "source/146974/564318Molecule"
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9867724867724867,
@@ -847,6 +860,13 @@
             "ap2Primary": false,
             "ap1ID": 128396,
             "ap2ID": 599376
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 564318,
+            "ap2ID": 616516
         }
     ],
     "fileTypeVersion": 1,
